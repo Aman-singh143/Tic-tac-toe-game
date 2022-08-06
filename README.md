@@ -13,7 +13,8 @@
 3. win and draw 
 4. <br />
 5.responsive 
-<br />
+
+
 -first page
 ![image](https://user-images.githubusercontent.com/109282041/183260279-ae1b0231-7817-47f9-a582-3a4b9a3bc3fb.png)
 -second page
