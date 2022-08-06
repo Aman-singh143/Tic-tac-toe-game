@@ -11,8 +11,8 @@
 2.Next turn status
 <br />
 3. win and draw 
-4. <br />
-5.responsive 
+<br />
+4.responsive 
 
 
 -first page
