@@ -78,12 +78,12 @@
         function swaplayer(){
             toggle =!toggle;
             if(toggle){
-                p1.classList.add("active");
-                p2.classList.remove("active");
-            }else{
                 p2.classList.add("active");
                 p1.classList.remove("active");
-            }    
+            }else{
+                p1.classList.add("active");
+                p2.classList.remove("active");
+            }     
         }
 
         restart_btn.onclick=()=>{
