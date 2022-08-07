@@ -173,8 +173,9 @@
             }
             .result h1{
                 color:#fff;
-                font-size:50px;
+                font-size:42px;
                 text-shadow: -2px 5px 3px black;
+                font-family: 'Oxygen', sans-serif;
             }
             .btn{
                 border-radius: 20px;

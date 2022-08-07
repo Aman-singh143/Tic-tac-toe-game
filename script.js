@@ -9,15 +9,18 @@
         let firstpage_btn1 = document.querySelector(".select .btn1");
         let firstpage_btn2 = document.querySelector(".select .btn2");
 
+        
 
         let toggle =true;
 
         firstpage_btn1.onclick=()=>{
             firstpage.classList.add("inactive");
+            p1.classList.add("active");
             toggle=false;
         }
         firstpage_btn2.onclick=()=>{
             firstpage.classList.add("inactive");
+            p2.classList.add("active");
             toggle=true;
         }
 
@@ -79,7 +82,7 @@
             toggle =!toggle;
             if(toggle){
                 p2.classList.add("active");
-                p1.classList.remove("active");
+                p1.classList.remove("active");  
             }else{
                 p1.classList.add("active");
                 p2.classList.remove("active");
